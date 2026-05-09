@@ -1,0 +1,27 @@
+.notfound-page {
+  width: 100%;
+  max-width: 620px;
+  text-align: center;
+}
+
+.notfound-page h1 {
+  margin-bottom: 14px;
+}
+
+.notfound-page p {
+  margin-bottom: 20px;
+  color: #475569;
+}
+
+.notfound-link {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 999px;
+  background: #2563eb;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.notfound-link:hover {
+  background: #1d4ed8;
+}

@@ -1,0 +1,42 @@
+.results-page {
+  min-height: calc(100vh - 72px);
+  background-color: #f8fafc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.results-card {
+  background-color: #ffffff;
+  max-width: 640px;
+  width: 100%;
+  text-align: center;
+  padding: 40px;
+  border-radius: 18px;
+}
+
+.results-img {
+  width: 260px;
+  max-width: 100%;
+}
+
+.results-card h1 {
+  color: #164687;
+  font-size: 28px;
+}
+
+.results-card p {
+  color: #334155;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.reattempt-btn {
+  background-color: #164687;
+  color: #ffffff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 700;
+}
